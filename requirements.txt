@@ -1,0 +1,4 @@
+# Podstawowy pakiet LangChain, zawiera BaseTool i inne rdzenne elementy
+langchain
+langchain-openai
+python-dotenv
